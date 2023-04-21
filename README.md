@@ -9,12 +9,11 @@
 
 # Tecnologias utilizadas
 - Java
+- Spring 
 - Spring Boot
 - JPA / Hibernate
 - Maven
 - H2
-- PostMan
-- ApacheTomCat
 - PostgreSQL
 
 # Como executar 
