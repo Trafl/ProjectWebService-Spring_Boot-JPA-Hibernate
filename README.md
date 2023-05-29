@@ -16,9 +16,6 @@
 - H2
 - PostgreSQL
 
-# Como executar 
-Para executar o projeto em modo de teste usando o banco em memoria H2, basta acessar o "application.properties" e mudar o "spring.profiles.active=dev" para "spring.profiles.active=test" e ele sera instanciado dessa forma.
-
 ![Instanciado](https://github.com/Trafl/assets/blob/main/domainInstance.png)
 
 ```
